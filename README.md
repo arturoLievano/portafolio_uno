@@ -5,7 +5,7 @@
     <h1 align="center">PORTAFOLIO_UNO</h1>
 </p>
 <p align="center">
-    <em><code>❯ REPLACE-ME</code></em>
+    <em><code>❯ try me! https://portafolio-uno.vercel.app/ </code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/arturoLievano/portafolio_uno?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -39,13 +39,25 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Key Components:
+    Frontend: Built with React.js, providing a dynamic and responsive user interface.
+    Backend: Powered by Node.js and Express.js, handling API requests and routing.
+    Styling: Utilizes CSS3 for modern and sleek design.
+    Deployment: Hosted on Vercel, offering fast and reliable access.
+</code>
 
 ---
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ The project includes several notable features:
+	Interactive UI.
+	API Management: Efficient handling of data and requests through Node.js and Express.js.
+	Modern Design: Clean and professional look achieved with CSS3.
+	Responsive Layout: Ensures the portfolio looks great on all devices.
+	Fast Hosting: Vercel deployment ensures quick load times and reliability.
+
+</code>
 
 ---
 
@@ -80,92 +92,11 @@
 
 ---
 
-##  Modules
-
-<details closed><summary>.</summary>
-
-| File | Summary |
-| --- | --- |
-| [package.json](https://github.com/arturoLievano/portafolio_uno/blob/main/package.json) | <code>❯ REPLACE-ME</code> |
-| [package-lock.json](https://github.com/arturoLievano/portafolio_uno/blob/main/package-lock.json) | <code>❯ REPLACE-ME</code> |
-
-</details>
-
-<details closed><summary>public</summary>
-
-| File | Summary |
-| --- | --- |
-| [index.html](https://github.com/arturoLievano/portafolio_uno/blob/main/public/index.html) | <code>❯ REPLACE-ME</code> |
-| [manifest.json](https://github.com/arturoLievano/portafolio_uno/blob/main/public/manifest.json) | <code>❯ REPLACE-ME</code> |
-| [robots.txt](https://github.com/arturoLievano/portafolio_uno/blob/main/public/robots.txt) | <code>❯ REPLACE-ME</code> |
-
-</details>
-
-<details closed><summary>src</summary>
-
-| File | Summary |
-| --- | --- |
-| [setupTests.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/setupTests.js) | <code>❯ REPLACE-ME</code> |
-| [reportWebVitals.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/reportWebVitals.js) | <code>❯ REPLACE-ME</code> |
-| [App.css](https://github.com/arturoLievano/portafolio_uno/blob/main/src/App.css) | <code>❯ REPLACE-ME</code> |
-| [index.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/index.js) | <code>❯ REPLACE-ME</code> |
-| [index.css](https://github.com/arturoLievano/portafolio_uno/blob/main/src/index.css) | <code>❯ REPLACE-ME</code> |
-| [style.css](https://github.com/arturoLievano/portafolio_uno/blob/main/src/style.css) | <code>❯ REPLACE-ME</code> |
-| [App.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/App.js) | <code>❯ REPLACE-ME</code> |
-| [index.scss](https://github.com/arturoLievano/portafolio_uno/blob/main/src/index.scss) | <code>❯ REPLACE-ME</code> |
-| [App.test.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/App.test.js) | <code>❯ REPLACE-ME</code> |
-
-</details>
-
-<details closed><summary>src.components</summary>
-
-| File | Summary |
-| --- | --- |
-| [ScrollToTop.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/ScrollToTop.js) | <code>❯ REPLACE-ME</code> |
-| [Navbar.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/Navbar.js) | <code>❯ REPLACE-ME</code> |
-| [Particle.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/Particle.js) | <code>❯ REPLACE-ME</code> |
-| [Pre.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/Pre.js) | <code>❯ REPLACE-ME</code> |
-| [ToggleButton.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/ToggleButton.js) | <code>❯ REPLACE-ME</code> |
-| [Footer.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/Footer.js) | <code>❯ REPLACE-ME</code> |
-
-</details>
-
-<details closed><summary>src.components.Projects</summary>
-
-| File | Summary |
-| --- | --- |
-| [Projects.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/Projects/Projects.js) | <code>❯ REPLACE-ME</code> |
-| [ProjectCards.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/Projects/ProjectCards.js) | <code>❯ REPLACE-ME</code> |
-
-</details>
-
-<details closed><summary>src.components.About</summary>
-
-| File | Summary |
-| --- | --- |
-| [Toolstack.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/About/Toolstack.js) | <code>❯ REPLACE-ME</code> |
-| [Github.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/About/Github.js) | <code>❯ REPLACE-ME</code> |
-| [About.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/About/About.js) | <code>❯ REPLACE-ME</code> |
-| [Techstack.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/About/Techstack.js) | <code>❯ REPLACE-ME</code> |
-| [AboutCard.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/About/AboutCard.js) | <code>❯ REPLACE-ME</code> |
-
-</details>
-
 <details closed><summary>src.components.Resume</summary>
 
 | File | Summary |
 | --- | --- |
-| [ResumeNew.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/Resume/ResumeNew.js) | <code>❯ REPLACE-ME</code> |
-
-</details>
-
-<details closed><summary>src.components.Home</summary>
-
-| File | Summary |
-| --- | --- |
-| [Home2.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/Home/Home2.js) | <code>❯ REPLACE-ME</code> |
-| [Home.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/Home/Home.js) | <code>❯ REPLACE-ME</code> |
-| [Type.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/Home/Type.js) | <code>❯ REPLACE-ME</code> |
+| [ResumeNew.js](https://github.com/arturoLievano/portafolio_uno/blob/main/src/components/Resume/ResumeNew.js) | <code> portafolio_uno, is a personal portfolio website built using React.js for a dynamic user interface. It features a Node.js and Express.js back-end to manage APIs and routing, and utilizes CSS3 for modern styling. The project was developed in VSCode and deployed on Vercel for fast and reliable hosting </code> |
 
 </details>
 
@@ -183,7 +114,7 @@ Build the project from source:
 
 1. Clone the portafolio_uno repository:
 ```sh
-❯ git clone https://github.com/arturoLievano/portafolio_uno/
+❯ git clone https://github.com/arturoLievano/portafolio_uno
 ```
 
 2. Navigate to the project directory:
@@ -214,14 +145,6 @@ Execute the test suite using the following command:
 
 ---
 
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
-
 ##  Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
@@ -236,7 +159,7 @@ Contributions are welcome! Here are several ways you can contribute:
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/arturoLievano/portafolio_uno/
+   git clone https://github.com/arturoLievano/portafolio_uno
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -269,12 +192,5 @@ Contributions are welcome! Here are several ways you can contribute:
 
 ##  License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
+This project has no licences
 ---
